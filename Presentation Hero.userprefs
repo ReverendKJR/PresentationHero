@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Rotate.js">
+    <Files>
+      <File FileName="Assets\Shoot.js" Line="5" Column="58" />
+      <File FileName="Assets\torquetest.js" Line="2" Column="1" />
+      <File FileName="Assets\Scripts\NetworkManagerScriptServer.js" Line="27" Column="36" />
+      <File FileName="Assets\Scripts\SwitchCamera.js" Line="46" Column="5" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="48" Column="31" />
+      <File FileName="Assets\Scripts\NetworkManagerScript.js" Line="17" Column="4" />
+      <File FileName="Assets\Rotate.js" Line="4" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
